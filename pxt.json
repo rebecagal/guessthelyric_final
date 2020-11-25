@@ -1,5 +1,5 @@
 {
-    "name": "GuessTheLyric_Final",
+    "name": "GuessTheSong_Final",
     "description": "",
     "dependencies": {
         "core": "*",
